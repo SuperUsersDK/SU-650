@@ -1,0 +1,24 @@
+Prøv denne 'gode prompt' i ChatGPT:
+
+----------
+Opgave:
+Forklar hvad en transformer er i en LLM.
+
+Kontekst:
+Forklaringen skal bruges i undervisning af tekniske konsulenter
+med grundlæggende ML-forståelse.
+
+Eksempel:
+Forklar i korte, klare bullets uden kode.
+
+Persona:
+Du er en erfaren AI-arkitekt.
+
+Format:
+Bullet points, maks. 10 bullets.
+
+Tone:
+Klar, teknisk og pædagogisk.
+----------
+
+Vigtigt, lav en ny chat til det, så der ikke er historik.

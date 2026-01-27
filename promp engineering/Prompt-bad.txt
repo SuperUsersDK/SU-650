@@ -1,0 +1,7 @@
+Prøv denne 'dårlige prompt' i ChatGPT:
+
+----------
+Forklar hvad en transformer er
+----------
+
+Vigtigt, lav en ny chat til det, så der ikke er historik.
