@@ -1,0 +1,7 @@
+Projektproces
+
+- Nye projekter: indsend et kort projektoplæg og forventet værdi.
+- Prioritering: månedligt styremøde godkender scope og budget.
+- Levering: kør 2-ugers sprints og demo ved sprintslut.
+- Ændringsønsker: log i ændringsregisteret og få sponsor-godkendelse.
+- Post-mortem: skriv kort evaluering senest 10 dage efter lancering.

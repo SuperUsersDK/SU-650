@@ -1,0 +1,7 @@
+IT-support guide
+
+- Adgangskode: nulstil via selvbetjeningsportalen (portal.intern).
+- MFA-problemer: tjek tidssynkronisering, og tilmeld enheden igen.
+- VPN: kun nødvendig til ældre systemer; brug profilen "SecureConnect".
+- Ny laptop: opret ticket med ledergodkendelse og kostcenter.
+- Kritiske hændelser: ring til IT-hotline (08:00-16:00).
