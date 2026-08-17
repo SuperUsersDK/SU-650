@@ -28,7 +28,7 @@ response = client.chat.completions.create(
     top_p=0.2,
     frequency_penalty=1.2,
     presence_penalty=1.3,
-    max_tokens=40,
+    max_tokens=40, 
     seed=987654,
 )
 
